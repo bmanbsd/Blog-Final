@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<body>
+<style>
+ body {
+    background: url("https://thumbs.dreamstime.com/t/orange-abstract-tissue-texture-background-78139247.jpg")
+  }
+* {
+  margin: 10px;
+  padding: 10px;
+}
+
+
+h1 {color:black}
+  h1 {font-size:100px}
+ h1 {font-family:  Impact; }
+h2 {font-size:60px}
+h2 {color:black}
+p2 {font-size:30px}
+  p2 {color:white}
+
+</style>
+
+  <header>
+    <center>
+    <h1>Basketball Central Blog</h1>
+      <p2> Your Home For Everything Basketball </p2>
+      <h4> Hosted By: Brendan Delaney</h4>
+    <center>
+ <a href="#"><img class="border" src="https://www.ctvnews.ca/polopoly_fs/1.5216003.1607027329!/httpImage/image.jpg_gen/derivatives/landscape_1020/image.jpg" width="1500" height="900"></a>
+
+  </header>
+  <article>
+<center>
+    <h2><a id="shai" href="shai.html">Shai Gilgeous Alexander Return? Injury Updates?</a></h2>
+<center>
+ <a href="#"><img class="border" src="https://img.bleacherreport.net/img/images/photos/003/903/015/hi-res-123e08cc982ec7f1ebef687536b7ca67_crop_north.jpg?1613017999&w=3072&h=2048" width="1000" height="700"></a>
+   
+  </article>
+  <article>
+
+<center>
+    <h2><a id="second" class="border" href="power.html">Latest NBA Power Rankings: Sixers Retake Number 1 Over Clippers</a></h2>
+<center>
+<a href="#"><img class="border" src="https://a.espncdn.com/photo/2021/0418/nba_power_rankings_1296x729.jpg"></a>
+
+  </article>
+  
+</body><article>
+
+<center>
+  <h2><a id="second" class="border" href="anthony.html">Anthony Davis Injury Return: Did Not Go As Planned...</a></h2>
+<center>
+<a href="#"><img class="border" src="https://e0.365dm.com/21/04/768x432/skysports-nba-anthony-davis_5351926.jpg?20210422090806" width=1000 ></a>
+
+  </article>
+  <center>
+ <h2><a id="second" class="border" href="mvp.html">NBA MVP Race: Rankings Begin To Heat Up As Season Nears An End</a></h2>
+<center>
+<a href="#"><img class="border" src="https://hoopshype.com/wp-content/uploads/sites/92/2021/02/mvp-5th-week-2021.jpg?w=1000&h=600&crop=1" width=1200 ></a>
+
+  </article>
+<article>
+     <h2><a id="second" class="border" href="curry.html">Stephen Curry Breaks Record For Most 3 Pointers Made In A Month</a></h2>
+<center>
+<a href="#"><img class="border" src="https://prosportsextra.com/wp-content/uploads/2020/04/BNG-L-WARRIORS-0306-7-1-scaled.jpg" width=1200 height=750 ></a>
+  </article>
+
+<article>
+     <h2><a id="second" class="border" href="aboutme.html">About Me Page</a></h2>
+<center>
+<a href="#"><img class="border" src="https://i.ibb.co/f2P4N5t/Me.jpg" width=1000 height=750 ></a>
+  </article>
